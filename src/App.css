@@ -56,3 +56,8 @@ body{
   background-color: gainsboro;
   color:white;
 }
+
+.complete-task {
+  color: gray;
+  /* 중간에 밑줄짓는 코드 */
+}
